@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+data/
+*.jsonl
+*user-id*.txt
+__pycache__/
+*.py[cod]
